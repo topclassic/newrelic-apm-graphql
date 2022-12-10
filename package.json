@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.0",
+    "express": "^4.17.3",
     "graphql-yoga": "^1.17.4",
     "newrelic": "^5.9.0",
     "nodemon": "^1.19.0"
